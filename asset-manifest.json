@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Code-Gallery/static/css/main.d4fee16a.css",
-    "main.js": "/Code-Gallery/static/js/main.39af71a1.js",
-    "static/js/787.d3a58415.chunk.js": "/Code-Gallery/static/js/787.d3a58415.chunk.js",
+    "main.js": "/Code-Gallery/static/js/main.be2fdba6.js",
+    "static/js/787.e7648e00.chunk.js": "/Code-Gallery/static/js/787.e7648e00.chunk.js",
     "static/media/laceddays.otf": "/Code-Gallery/static/media/laceddays.cb1304d8c101b66ff876.otf",
     "static/media/logo_b.png": "/Code-Gallery/static/media/logo_b.61c667b49dfe0fc75573.png",
     "static/media/sketch-prew-01.png": "/Code-Gallery/static/media/sketch-prew-01.6f3124d2ec1fc5cc5603.png",
@@ -16,11 +16,11 @@
     "static/media/mail.png": "/Code-Gallery/static/media/mail.b1a55acde9c0e903dbb4.png",
     "index.html": "/Code-Gallery/index.html",
     "main.d4fee16a.css.map": "/Code-Gallery/static/css/main.d4fee16a.css.map",
-    "main.39af71a1.js.map": "/Code-Gallery/static/js/main.39af71a1.js.map",
-    "787.d3a58415.chunk.js.map": "/Code-Gallery/static/js/787.d3a58415.chunk.js.map"
+    "main.be2fdba6.js.map": "/Code-Gallery/static/js/main.be2fdba6.js.map",
+    "787.e7648e00.chunk.js.map": "/Code-Gallery/static/js/787.e7648e00.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d4fee16a.css",
-    "static/js/main.39af71a1.js"
+    "static/js/main.be2fdba6.js"
   ]
 }
